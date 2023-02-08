@@ -61,8 +61,8 @@ def wait_for_task(task):
 def main():
     # vCenter or ESXi host details
     hostname = '192.168.1.18'
-    username = 'admin_as'
-    password = 'qmu-yH8-ZPS-Cgy'
+    username = 'username'
+    password = 'password'
     vm_names = ['VMXP04']
 
     # Disable SSL certificate verification
